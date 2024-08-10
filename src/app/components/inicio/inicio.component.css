@@ -1,0 +1,39 @@
+
+.texto{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/*CARDS*/
+.card img {
+  width: 100px;
+  height: 100px;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 360px;
+  height: 203px;
+  margin: 15px ;
+  border-radius: 25px;
+  padding: 6px;
+  font-size: 10px;
+  background-color: #E2B133;
+}
+
+
+.card-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
+
+
+
+
+

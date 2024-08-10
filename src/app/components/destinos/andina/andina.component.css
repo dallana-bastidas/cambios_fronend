@@ -1,0 +1,24 @@
+  .card {
+    width: 250px;
+    height: 550px;
+    margin: 7px;
+    background-color:  #eac566;
+}
+
+.btn-fechas{
+    background-color: #1b1c1d;
+    color: #fff;
+    height: 40px;
+
+}
+
+.btn-reservar{
+    background-color: #293B56;
+    color: #fff;
+    height: 40px;
+}
+
+  .tarjetas-imagenes{
+    height: 237px;
+  }
+
